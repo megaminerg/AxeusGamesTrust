@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "manifestVersion": 1,
+  "algorithm": "sha256",
+  "artifacts": [
+    {
+      "id": "dependency:MelonLoader",
+      "file": "MelonLoader072-ci2367.zip",
+      "size": 17662242,
+      "sha256": "64f4a53ca235d6d08c19b366b24b4a6a3bdf9271cc650903363438e985735cd1",
+      "version": "0.7.2-ci.2367"
+    },
+    {
+      "id": "dependency:MicrosoftNet6",
+      "file": "dotnet-runtime-6.0.35-win-x64.exe",
+      "size": 28308496,
+      "sha256": "5ff0cef3167475fec5720bd9a184fc3b4d0b621f3524339fdf6f2f2af026df38",
+      "version": "6.0.35"
+    },
+    {
+      "id": "dependency:ScriptHookDotNet",
+      "file": "ScriptHookVDotNet-v3.6.0-nightly.130.zip",
+      "size": 2576176,
+      "sha256": "ae96ada55a6287fe6bf927017d5b3f19a5875ecca73542ac5f1a0bfd97119d02",
+      "version": "3.6.0-nightly.130"
+    },
+    {
+      "id": "dependency:ScriptHookVGTA",
+      "file": "ScriptHookV_3889.0_1158.13.zip",
+      "size": 1722210,
+      "sha256": "b64c97c3353906f14621e7e9511e4aec2a7d436ecc21ed124d3816585e2e6188",
+      "version": "3889.0_1158.13"
+    },
+    {
+      "id": "dependency:ScriptHookVRDR2",
+      "file": "ScriptHookRDR2_1.0.1491.17.zip",
+      "size": 294614,
+      "sha256": "a3be69dcd33e6cffe316d7c17ee5c4f7fcedf0c7b7fa8cf68177398e6594c39f",
+      "version": "1.0.1491.17"
+    },
+    {
+      "id": "game:girls-vs-boys",
+      "file": "girls-vs-boys-1.1.2.zip",
+      "size": 9339721,
+      "sha256": "ef41c10856bfb6e8f6a4da1039b0e12c9c0bbafef4dc095e25754fff0d6b5270",
+      "version": "1.1.2"
+    },
+    {
+      "id": "integration:ark-ascended-solo-mod",
+      "file": "ArkAscendedHostSoloMod.zip",
+      "size": 7201377,
+      "sha256": "b295102ba3e1cda954a84cbf7d1a0a5f4907061efbee1004e4f6f6b11db1e292"
+    },
+    {
+      "id": "integration:ark-server",
+      "file": "ServerInterativoArk.zip",
+      "size": 12129011263,
+      "sha256": "6b6af83b9eb7ef6d88543669bed650390b0da6a59f3df2314701704b739a5972"
+    },
+    {
+      "id": "integration:ark-solo-mod",
+      "file": "ArkHostSoloMod.zip",
+      "size": 56056,
+      "sha256": "726f7565a1840d8c5ca9cfa96a2eee9f18ac2aea5637fe23ec6b37d67486a7f6"
+    },
+    {
+      "id": "integration:gettowork",
+      "file": "GetToWorkIntegration.zip",
+      "size": 11368,
+      "sha256": "e68f76233dac60c402ac818374522b06db48ccbcf44b976616c205a1335b0d30"
+    },
+    {
+      "id": "integration:granny",
+      "file": "GrannyIntegration.zip",
+      "size": 729309,
+      "sha256": "413c52822ecb5abc11cff90d7fc80aa9d04021b5f9ce8061c474641b77ed48cb"
+    },
+    {
+      "id": "integration:grounded",
+      "file": "GroundedIntegration.zip",
+      "size": 18336988,
+      "sha256": "d26f200ed65f57258c83ccf84b85398588e55c0499a158c71a975d33a8078d54"
+    },
+    {
+      "id": "integration:grounded2",
+      "file": "Grounded2Mod.zip",
+      "size": 7209287,
+      "sha256": "6e942accb78e42f9678fcb59e27ecc6fb696e5f26715d5774926d177d9448727"
+    },
+    {
+      "id": "integration:gta5",
+      "file": "GtaIntegration.zip",
+      "size": 874589,
+      "sha256": "926fec3b23fa9441405d137325aa12243e76b2b15c4ef0dd915f89dd7ecfecf0"
+    },
+    {
+      "id": "integration:gta5-chaos",
+      "file": "GtaIntegrationChaosMod.zip",
+      "size": 6448574,
+      "sha256": "0ff01e9045c494e9952f734634528a4687b5952f569247e6e52f0f2a9cca7b69"
+    },
+    {
+      "id": "integration:minecraft-openworld",
+      "file": "MinecraftServerOpenWorldAxeusGames.zip",
+      "size": 386917858,
+      "sha256": "867aff7d49fbe34abd36487717db4024ac9fe766fd34434c90da684f9a2eab84"
+    },
+    {
+      "id": "integration:minecraft-tnt",
+      "file": "MinecraftServerTNTAxeusGames.zip",
+      "size": 512652107,
+      "sha256": "7a0f719173a530c6ca3af2efedd102dd116b946464338428b3ee63ddea2e118a"
+    },
+    {
+      "id": "integration:onlyclimb",
+      "file": "OnlyClimbIntegration.zip",
+      "size": 8126281,
+      "sha256": "e08688d498b49765f2a282bc3aad232a11c4854e5b70c72b563e49d7b81097a1"
+    },
+    {
+      "id": "integration:pvz",
+      "file": "PvzIntegration.zip",
+      "size": 756566,
+      "sha256": "81ff49250641326d1fb3c2f7a8defd7bc0db21834868def89f7e74d16ae7cd47"
+    },
+    {
+      "id": "integration:rdr2",
+      "file": "RDR2Integration.zip",
+      "size": 736406,
+      "sha256": "15790e4f17022fe87d0b1e46d01c8dea4c6479425c1b70a7fd40bf11b2543bf1"
+    },
+    {
+      "id": "integration:re4",
+      "file": "ResidentEvil4Mod.zip",
+      "size": 5121504,
+      "sha256": "ab1a14a400113da10b97597b36fc443248c05d768f4103e347fcf2dca76b4a91"
+    },
+    {
+      "id": "integration:supermarket",
+      "file": "SuperMarketSimulatorIntegration.zip",
+      "size": 16177,
+      "sha256": "481eccf259e6a65f7a1c919ba852f0978951c858e3efa6dc2287039b83ce6a43"
+    },
+    {
+      "id": "integration:vampiresurvivors",
+      "file": "VampireSurvivorsIntegration.zip",
+      "size": 15014,
+      "sha256": "72503feeedf2e1f59cad17739a5d0bf81fa741d21f2b8b8c09a1e4532fa19cda"
+    }
+  ]
+}
