@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "manifestVersion": 2,
+  "manifestVersion": 3,
   "algorithm": "sha256",
   "artifacts": [
     {
@@ -152,8 +152,8 @@
     {
       "id": "integration:supermarket",
       "file": "SuperMarketSimulatorIntegration.zip",
-      "size": 16432,
-      "sha256": "563cff203c7c379feab8709533bba90dfc51243bf6166c202029871fcaa20165"
+      "size": 17085,
+      "sha256": "b4634716e4fa9b74738ef7a54493eb4f91cda4153a84f472b1909ac7d65b4d82"
     },
     {
       "id": "integration:vampiresurvivors",
