@@ -1,8 +1,15 @@
 {
   "schemaVersion": 1,
-  "manifestVersion": 1,
+  "manifestVersion": 2,
   "algorithm": "sha256",
   "artifacts": [
+    {
+      "id": "dependency:BepInEx",
+      "file": "BepInEx-Unity.IL2CPP-win-x64-6.0.0-be.785+6abdba4.zip",
+      "size": 34335572,
+      "sha256": "2a7cbf74d26abe4765c3e662db1721b923bac39849ebfef2ca5dc7de7e2d9b7f",
+      "version": "6.0.0-be.785+6abdba4"
+    },
     {
       "id": "dependency:MelonLoader",
       "file": "MelonLoader072-ci2367.zip",
@@ -39,11 +46,18 @@
       "version": "1.0.1491.17"
     },
     {
+      "id": "game:axeus-games-collection",
+      "file": "axeus-games-collection-1.0.0.zip",
+      "size": 163367623,
+      "sha256": "5ff261ac13c11a93786c5545671d1a633e936495c514895d72f376c783df4ce2",
+      "version": "1.0.0"
+    },
+    {
       "id": "game:girls-vs-boys",
-      "file": "girls-vs-boys-1.1.2.zip",
-      "size": 9339721,
-      "sha256": "ef41c10856bfb6e8f6a4da1039b0e12c9c0bbafef4dc095e25754fff0d6b5270",
-      "version": "1.1.2"
+      "file": "girls-vs-boys-1.1.3.zip",
+      "size": 9350001,
+      "sha256": "357b48200329129208a77b6fa7cf7f8dfac2896b74d37588d394b5e31e63f4c2",
+      "version": "1.1.3"
     },
     {
       "id": "integration:ark-ascended-solo-mod",
@@ -138,14 +152,14 @@
     {
       "id": "integration:supermarket",
       "file": "SuperMarketSimulatorIntegration.zip",
-      "size": 16177,
-      "sha256": "481eccf259e6a65f7a1c919ba852f0978951c858e3efa6dc2287039b83ce6a43"
+      "size": 16432,
+      "sha256": "563cff203c7c379feab8709533bba90dfc51243bf6166c202029871fcaa20165"
     },
     {
       "id": "integration:vampiresurvivors",
       "file": "VampireSurvivorsIntegration.zip",
-      "size": 15014,
-      "sha256": "72503feeedf2e1f59cad17739a5d0bf81fa741d21f2b8b8c09a1e4532fa19cda"
+      "size": 14918,
+      "sha256": "fb78f6cc3ccc446aab13407f85b484999715229385c3d8a07bbd3cf89c60d5b5"
     }
   ]
 }
