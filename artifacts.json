@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "manifestVersion": 3,
+  "manifestVersion": 4,
   "algorithm": "sha256",
   "artifacts": [
     {
@@ -104,14 +104,20 @@
     {
       "id": "integration:gta5",
       "file": "GtaIntegration.zip",
-      "size": 874589,
-      "sha256": "926fec3b23fa9441405d137325aa12243e76b2b15c4ef0dd915f89dd7ecfecf0"
+      "size": 907908,
+      "sha256": "afdd5a5fb5f010ca9dd36d1b5b7f67e212a8aaf7ca5f1ade800e0f562053e01b"
     },
     {
       "id": "integration:gta5-chaos",
       "file": "GtaIntegrationChaosMod.zip",
-      "size": 6448574,
-      "sha256": "0ff01e9045c494e9952f734634528a4687b5952f569247e6e52f0f2a9cca7b69"
+      "size": 6653414,
+      "sha256": "764e960a8e8e74f17b6883cf859db7f7a2ea987815098e86a1b7a4bfae91f406"
+    },
+    {
+      "id": "integration:minecraft-minigames",
+      "file": "MinecraftServerMinigamesAxeusGames.zip",
+      "size": 391426896,
+      "sha256": "152a5827f3cf7cbf4a891acb297fa262fed03a6bf76486acb0166dce4341cd8b"
     },
     {
       "id": "integration:minecraft-openworld",
