@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "manifestVersion": 4,
+  "manifestVersion": 5,
   "algorithm": "sha256",
   "artifacts": [
     {
@@ -116,8 +116,8 @@
     {
       "id": "integration:minecraft-minigames",
       "file": "MinecraftServerMinigamesAxeusGames.zip",
-      "size": 391426896,
-      "sha256": "152a5827f3cf7cbf4a891acb297fa262fed03a6bf76486acb0166dce4341cd8b"
+      "size": 364902921,
+      "sha256": "fd1018b4a32baf03f55924426d0854611acb8493bb5c5cb8dd40dfdbe544318e"
     },
     {
       "id": "integration:minecraft-openworld",
