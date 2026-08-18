@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "manifestVersion": 5,
+  "manifestVersion": 6,
   "algorithm": "sha256",
   "artifacts": [
     {
@@ -47,10 +47,10 @@
     },
     {
       "id": "game:axeus-games-collection",
-      "file": "axeus-games-collection-1.0.0.zip",
-      "size": 163367623,
-      "sha256": "5ff261ac13c11a93786c5545671d1a633e936495c514895d72f376c783df4ce2",
-      "version": "1.0.0"
+      "file": "axeus-games-collection-1.0.1.zip",
+      "size": 147533089,
+      "sha256": "b9c5485ef43479140d41fb425c77959ffa81dccdacf94af46cf49d59896a0802",
+      "version": "1.0.1"
     },
     {
       "id": "game:girls-vs-boys",
